@@ -1,2 +1,2 @@
-Git x is a version control system.
-Git y is free software.
+Git x is a version control system. xxx
+Git y is free software. yyy
